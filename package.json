@@ -28,7 +28,8 @@
   "configSchema": "foscam-config-schema.coffee",
   "dependencies": {
     "xml2js": "*",
-    "request": "*"
+    "request": "*",
+    "ws": "*"
   },
   "peerDependencies": {
     "pimatic": ">=0.8.0"
