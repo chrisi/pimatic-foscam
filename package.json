@@ -29,7 +29,8 @@
   "dependencies": {
     "xml2js": "*",
     "request": "*",
-    "ws": "*"
+    "ws": "*",
+    "node-rtsp-stream": "*"
   },
   "peerDependencies": {
     "pimatic": ">=0.8.0"
