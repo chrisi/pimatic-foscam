@@ -27,10 +27,11 @@
   },
   "configSchema": "foscam-config-schema.coffee",
   "dependencies": {
-    "xml2js": "*"
+    "xml2js": "*",
+    "request": "*"
   },
   "peerDependencies": {
-    "pimatic": "0.8.*"
+    "pimatic": ">=0.8.0"
   },
   "engines": {
     "node": ">0.8.x",
